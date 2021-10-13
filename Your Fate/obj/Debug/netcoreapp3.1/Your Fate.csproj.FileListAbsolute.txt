@@ -1,0 +1,13 @@
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.exe
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.deps.json
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.runtimeconfig.json
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.runtimeconfig.dev.json
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.dll
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\bin\Debug\netcoreapp3.1\Your Fate.pdb
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.csprojAssemblyReference.cache
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.AssemblyInfoInputs.cache
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.AssemblyInfo.cs
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.csproj.CoreCompileInputs.cache
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.dll
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.pdb
+E:\Visual Code\HOW TO PROGRAM Brackeys\Your Fate\obj\Debug\netcoreapp3.1\Your Fate.genruntimeconfig.cache
